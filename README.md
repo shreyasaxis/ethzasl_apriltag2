@@ -2,6 +2,8 @@
 Non-ROS version of AprilTag C++ implementation with small adaptations:
 - width of tag border can be specified
 
+Installation of **OpenCV** and **Eigen3** is essential before starting the cmake.
+
 **Installation**
 ```sh
 mkdir build && cd build
